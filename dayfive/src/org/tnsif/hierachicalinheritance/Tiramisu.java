@@ -5,8 +5,6 @@ package org.tnsif.hierachicalinheritance;
 public class Tiramisu extends Android {
 	private int versionName;
 	private String modelName;
-	
-	
 	public int getVersionName() {
 		return versionName;
 	}
