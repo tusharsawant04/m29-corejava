@@ -10,12 +10,14 @@ public class ThrowKeywordExample {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		try {
-			ThrowKeywordExample.donate(19,45);
-		}
-			catch(IOException e) {
-				System.out.println("Exception handled"+e);
-		}
+		
+			try {
+				ThrowKeywordExample.donate(19,45);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	
 
 	}
 

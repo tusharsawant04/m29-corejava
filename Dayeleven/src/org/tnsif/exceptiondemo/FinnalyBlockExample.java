@@ -15,7 +15,7 @@ public class FinnalyBlockExample {
     	 /*1. when we call System.exit(0), it means no ant fruther
     	  * statement is executed
     	  */
-    	 //System.exit(0);
+    	 System.exit(0);
     //we can use multiple catch block	 
 	
         }
