@@ -15,7 +15,7 @@ import java.lang.reflect.Method;
 	float percentage();
 }
 class ImplementableClass{
-	@Custom(print="Welcome Abhinav",percentage=89.6f)
+	@Custom(print="Welcome tushar",percentage=89.6f)
 	public void display() {
 		System.out.println("Hurrah!It's working almost!");
 	}
