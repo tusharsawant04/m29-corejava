@@ -22,7 +22,6 @@ public class DateTimeDemo {
 
 		OffsetDateTime obj5=OffsetDateTime.now();
 		System.out.println(obj5);
-		
 	}
 
 }
